@@ -1,4 +1,3 @@
-<? // = $offset ?>
 <?php
 $this->assign('title', 'タイムラインは為になるなぁ！');
  ?>
